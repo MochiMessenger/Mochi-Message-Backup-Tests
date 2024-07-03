@@ -4,9 +4,9 @@
 #
 [package]
 name = "libmochi-message-backup-io"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
-authors = ["Mochi Messenger LLC"]
+authors = ["Mochi Messenger"]
 license = "AGPL-3.0-only"
 
 default-run = "json_to_binproto"

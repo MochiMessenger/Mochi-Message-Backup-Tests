@@ -5,7 +5,7 @@
 [package]
 name = "libmochi-message-backup-io"
 version = "0.0.1"
-edition = "2024"
+edition = "2021"
 authors = ["Mochi Messenger"]
 license = "AGPL-3.0-only"
 

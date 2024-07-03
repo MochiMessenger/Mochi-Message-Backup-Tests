@@ -1,9 +1,9 @@
 //
-// Copyright (C) 2024 Mochi Messenger, LLC.
+// Copyright (C) 2024 Signal Messenger, LLC.
 // SPDX-License-Identifier: AGPL-3.0-only
 //
 
-//! Mochi remote message backup conversion utilities.
+//! Signal remote message backup conversion utilities.
 
 mod parse;
 mod proto;

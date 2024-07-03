@@ -1,4 +1,4 @@
-# Mochi Message Backup shared integration test cases
+# Signal Message Backup shared integration test cases
 
 At a high level, the goal of Backup integration tests is to validate that each client can import a given Backup instance into local state; export that local state into a new Backup instance; and confirm that the imported and exported Backups are equivalent. This requires a representation of Backup instances that is both human- and computer-readable and -writable, and a set of shared Backup instances that all clients are consuming in tests.
 
